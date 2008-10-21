@@ -1,0 +1,8 @@
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+
+use CPAN::Shell::Wx;
+
+my $shell = CPAN::Shell::Wx->new;
